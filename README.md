@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Animated wave header with gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,50:2D5A8E,100:1B3A5C&height=220&section=header&text=Youness%20Berkia&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Building%20things%20that%20actually%20work.&descSize=20&descColor=BDD1E8&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1B3A5C,100:2D5A8E&height=240&section=header&text=Youness%20Berkia&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20things%20that%20actually%20work.&descSize=20&descColor=BDD1E8&descAlignY=56" width="100%"/>
 
-<!-- Animated typing line -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D5A8E&center=true&vCenter=true&width=600&lines=Python+%7C+React+%7C+TypeScript+%7C+Node.js;Embedded+Systems+%7C+Arduino+%7C+Raspberry+Pi;Full-Stack+Developer+in+the+Making;IT-Ausbildung+2026+%E2%80%94+Wiesbaden" alt="Typing SVG" />
-</a>
+<!-- Typing animation: white on dark, navy on light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Python+%7C+TypeScript+%7C+React+%7C+Node.js;Embedded+Systems+%7C+Arduino+%7C+Raspberry+Pi;Full-Stack+Developer+in+the+Making;IT-Ausbildung+2026+%E2%80%94+Wiesbaden%2C+Deutschland" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1B3A5C&center=true&vCenter=true&width=620&lines=Python+%7C+TypeScript+%7C+React+%7C+Node.js;Embedded+Systems+%7C+Arduino+%7C+Raspberry+Pi;Full-Stack+Developer+in+the+Making;IT-Ausbildung+2026+%E2%80%94+Wiesbaden%2C+Deutschland" />
+</picture>
 
-<br/>
+<br/><br/>
 
-<!-- Profile view counter + social badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YounessBerkia&color=1B3A5C&style=for-the-badge&label=Profile+Views)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/YounessBerkia?style=for-the-badge&color=1B3A5C&labelColor=0d1117)](https://github.com/YounessBerkia)
@@ -18,8 +17,6 @@
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 Über mich
 
@@ -34,126 +31,116 @@ class YounessBerkia:
         self.stack      = ["Python", "TypeScript", "React", "Node.js", "Arduino C++"]
         self.interests  = ["Automatisierung", "Full-Stack Dev", "Embedded Systems", "Local AI"]
 
-    def motto(self) -> str:
-        return "Du hast ein Problem? Programmier es weg. 🚀"
-
-    def currently_working_on(self) -> list:
+    def currently_building(self) -> list:
         return [
-            "⚡ Energy Dashboard — Stromverbrauchsanalyse & Jahresprognose",
+            "⚡ WattWise — Stromverbrauchsanalyse & Jahresprognose",
             "🔧 Weitere Open-Source-Tools"
         ]
+
+    def motto(self) -> str:
+        return "Du hast ein Problem? Programmier es weg. 🚀"
 
 me = YounessBerkia()
 print(me.motto())
 # → Du hast ein Problem? Programmier es weg. 🚀
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🚀 Projekte
 
 <div align="center">
-
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<a href="https://procure-dock.vercel.app">
-<img src="https://denvercoder1-github-readme-youtube-cards.vercel.app/api/?title=🚢+ProcureDock&description=IT-Beschaffungs-Dashboard+%7C+React+%2B+Node.js+%2B+PostgreSQL&lang=de&background=1B3A5C&titleColor=ffffff&descriptionColor=BDD1E8&statsColor=BDD1E8" width="100%" alt="ProcureDock"/>
-</a>
+### 🚢 [ProcureDock](https://procure-dock.vercel.app) &nbsp;·&nbsp; [Repo ↗](https://github.com/YounessBerkia/ProcureDock)
 
-**[🚢 ProcureDock](https://procure-dock.vercel.app)** — [Repo ↗](https://github.com/YounessBerkia/ProcureDock)
+**IT-Beschaffungs-Dashboard** — vollständige Webanwendung mit automatisiertem Preisvergleich, Budgetverfolgung und Lieferantenmanagement. Live deployed.
 
-Vollständiges IT-Beschaffungs-Dashboard mit automatisiertem Preisvergleich, Budgetverfolgung und Lieferantenmanagement. Live deployed.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/YounessBerkia/Foldify">
-<img src="https://denvercoder1-github-readme-youtube-cards.vercel.app/api/?title=🗂️+Foldify&description=KI-Dateiorganizer+%7C+Python+%2B+Ollama+%7C+100%25+lokal&lang=de&background=1B3A5C&titleColor=ffffff&descriptionColor=BDD1E8&statsColor=BDD1E8" width="100%" alt="Foldify"/>
-</a>
+### 🗂️ [Foldify](https://github.com/YounessBerkia/Foldify) &nbsp;·&nbsp; Open Source · MIT
 
-**[🗂️ Foldify](https://github.com/YounessBerkia/Foldify)** — Open Source · MIT
+**KI-Dateiorganizer** — lokale Klassifizierung mit regelbasierter Engine und LLM-Fallback via Ollama. Kein Cloud, keine Abos. Produktionsbereit.
 
-Lokaler KI-Dateiorganizer mit regelbasierter Klassifizierung und LLM-Fallback via Ollama. Kein Cloud, keine Abos — vollständige Privatsphäre.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/AI-Ollama-purple?style=flat-square)
-![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/AI-Ollama-8B5CF6?style=flat-square)
 ![MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
+![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-**[💡 Smarter Nachttisch](https://github.com/YounessBerkia/smarter-nachttisch)** — Embedded Systems
+### 💡 [Smarter Nachttisch](https://github.com/YounessBerkia/smarter-nachttisch)
 
-RFID-Zugangskontrolle, motorisierte Schublade, REST-API-Wetterdaten & synthetische Sprachausgabe auf 51,28 €. Eigenständiges Schulprojekt mit 17-seitiger Doku.
+**Embedded Systems · RFID & IoT** — Schulprojekt mit RFID-Zugangskontrolle, motorisierter Schublade, Wetter-API und synthetischer Sprachausgabe. Budget: 51,28 €. 17-seitige Doku.
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![CircuitPython](https://img.shields.io/badge/CircuitPython-2A2F3B?style=flat-square&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-**[⚡ Energy Dashboard](https://github.com/YounessBerkia)** — In Entwicklung 🔧
+### ⚡ WattWise &nbsp;·&nbsp; In Entwicklung 🔧
 
-Stromverbrauchsanalyse mit Tages-/Monatsprognose und Vertragskalkulation (Nachzahlung vs. Rückerstattung). Coming soon.
+**Stromverbrauchsanalyse-Dashboard** — Tages-/Monatsprognose, Jahreshochrechnung und Vertragskalkulation (Nachzahlung vs. Rückerstattung).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Entwicklung-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_Entwicklung-f59e0b?style=flat-square)
 
 </td>
 </tr>
 </table>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Sprachen & Frameworks
+**Sprachen & Frameworks**
+
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,express,cpp,arduino&theme=dark&perline=8" />
 
-### Tools & Plattformen
-<img src="https://skillicons.dev/icons?i=postgres,vite,tailwind,vercel,git,github,linux,vscode&theme=dark&perline=8" />
+**Tools & Infrastruktur**
 
-### Hardware & Sonstiges
-<img src="https://skillicons.dev/icons?i=raspberrypi,blender&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=postgres,tailwind,vite,vercel,git,github,linux,vscode&theme=dark&perline=8" />
+
+**Hardware & Sonstiges**
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,blender&theme=dark&perline=4" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YounessBerkia&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=2D5A8E&icon_color=2D5A8E&text_color=ffffff&border_color=1B3A5C&hide_border=false&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessBerkia&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=2D5A8E&text_color=ffffff&border_color=1B3A5C&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YounessBerkia&theme=tokyonight&background=0d1117&border=1B3A5C&stroke=1B3A5C&ring=2D5A8E&fire=2D5A8E&currStreakLabel=2D5A8E&sideLabels=2D5A8E&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="65%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YounessBerkia&theme=tokyonight&background=0d1117&border=1B3A5C&stroke=1B3A5C&ring=2D5A8E&fire=2D5A8E&currStreakLabel=2D5A8E" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YounessBerkia&bg_color=0d1117&color=2D5A8E&line=1B3A5C&point=2D5A8E&area=true&area_color=1B3A5C&hide_border=true" width="95%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🐍 Contribution Snake
 
@@ -162,14 +149,48 @@ Stromverbrauchsanalyse mit Tages-/Monatsprognose und Vertragskalkulation (Nachza
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YounessBerkia/YounessBerkia/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YounessBerkia/YounessBerkia/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YounessBerkia/YounessBerkia/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/YounessBerkia/YounessBerkia/output/github-contribution-grid-snake-dark.svg" width="90%">
 </picture>
 
 </div>
 
-> **Hinweis:** Die Snake-Animation braucht einen einmaligen Setup-Schritt – siehe unten.
+<details>
+<summary>⚙️ Snake-Animation aktivieren (einmalig)</summary>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+Erstelle die Datei `.github/workflows/snake.yml` in deinem `YounessBerkia`-Repo:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Dann: *Actions → Generate Snake Animation → Run workflow*. Die SVGs werden automatisch täglich neu generiert.
+
+</details>
+
+---
 
 ## 📬 Kontakt
 
@@ -177,7 +198,7 @@ Stromverbrauchsanalyse mit Tages-/Monatsprognose und Vertragskalkulation (Nachza
 
 [![Email](https://img.shields.io/badge/Email-berkiayouness%40gmail.com-1B3A5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkiayouness@gmail.com)
 &nbsp;
-[![ProcureDock](https://img.shields.io/badge/Live_Demo-procure--dock.vercel.app-2D5A8E?style=for-the-badge&logo=vercel&logoColor=white)](https://procure-dock.vercel.app)
+[![ProcureDock Live](https://img.shields.io/badge/Live_Demo-procure--dock.vercel.app-2D5A8E?style=for-the-badge&logo=vercel&logoColor=white)](https://procure-dock.vercel.app)
 
 <br/>
 
@@ -185,10 +206,6 @@ Stromverbrauchsanalyse mit Tages-/Monatsprognose und Vertragskalkulation (Nachza
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,50:2D5A8E,100:1B3A5C&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D5A8E,60:1B3A5C,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
