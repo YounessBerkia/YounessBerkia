@@ -155,7 +155,6 @@ print(me.motto())
 </div>
 
 <details>
-<summary>⚙️ Snake-Animation aktivieren (einmalig)</summary>
 
 Erstelle die Datei `.github/workflows/snake.yml` in deinem `YounessBerkia`-Repo:
 
@@ -186,7 +185,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Dann: *Actions → Generate Snake Animation → Run workflow*. Die SVGs werden automatisch täglich neu generiert.
 
 </details>
 
