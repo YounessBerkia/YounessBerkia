@@ -36,6 +36,8 @@ Aktuell suche ich eine IT-Ausbildung für 2026 im Bereich Anwendungsentwicklung 
 
 Modernes Stromverbrauchs-Dashboard zum Erfassen von Zählerständen, zur Analyse von Verbrauchsverläufen und zur Berechnung von Jahreskosten, Nachzahlung und Rückerstattung.
 
+<img src="assets/wattwise-banner.png" alt="WattWise Banner" width="100%">
+
 > Clean dashboard UI · Verbrauchsanalyse · Vertragslogik · Jahresprognosen
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -51,6 +53,8 @@ Modernes Stromverbrauchs-Dashboard zum Erfassen von Zählerständen, zur Analyse
 
 IT-Beschaffungs-Dashboard mit Preisvergleich, Budgetverfolgung und Lieferantenmanagement. Ein praxisnahes Full-Stack-Projekt mit starkem Fokus auf Struktur und Nutzbarkeit.
 
+<img src="assets/procuredock-banner.png" alt="ProcureDock Banner" width="100%">
+
 > Procurement workflow · Preisvergleich · Budgetkontrolle · Business Dashboard
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -65,6 +69,8 @@ IT-Beschaffungs-Dashboard mit Preisvergleich, Budgetverfolgung und Lieferantenma
 [Repository](https://github.com/YounessBerkia/Foldify)
 
 Lokaler KI-Dateiorganizer mit regelbasierter Engine und LLM-Fallback via Ollama. Datenschutzfreundlich, praktisch und klar auf echten Einsatz ausgelegt.
+
+<img src="assets/foldify-banner.png" alt="Foldify Banner" width="100%">
 
 > Local-first AI · Dateiklassifizierung · Ollama-Fallback · Privacy by default
 
