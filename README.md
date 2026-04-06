@@ -36,16 +36,22 @@ Aktuell suche ich eine IT-Ausbildung für 2026 im Bereich Anwendungsentwicklung 
 
 Modernes Stromverbrauchs-Dashboard zum Erfassen von Zählerständen, zur Analyse von Verbrauchsverläufen und zur Berechnung von Jahreskosten, Nachzahlung und Rückerstattung.
 
+> Clean dashboard UI · Verbrauchsanalyse · Vertragslogik · Jahresprognosen
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
+---
+
 ### ProcureDock
 [Live Demo](https://procure-dock.vercel.app) · [Repository](https://github.com/YounessBerkia/ProcureDock)
 
 IT-Beschaffungs-Dashboard mit Preisvergleich, Budgetverfolgung und Lieferantenmanagement. Ein praxisnahes Full-Stack-Projekt mit starkem Fokus auf Struktur und Nutzbarkeit.
+
+> Procurement workflow · Preisvergleich · Budgetkontrolle · Business Dashboard
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -53,20 +59,28 @@ IT-Beschaffungs-Dashboard mit Preisvergleich, Budgetverfolgung und Lieferantenma
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
+---
+
 ### Foldify
 [Repository](https://github.com/YounessBerkia/Foldify)
 
 Lokaler KI-Dateiorganizer mit regelbasierter Engine und LLM-Fallback via Ollama. Datenschutzfreundlich, praktisch und klar auf echten Einsatz ausgelegt.
+
+> Local-first AI · Dateiklassifizierung · Ollama-Fallback · Privacy by default
 
 ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/AI-Ollama-8B5CF6?style=flat-square)
 ![MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+---
+
 ### Smarter Nachttisch
 [Repository](https://github.com/YounessBerkia/smarter-nachttisch)
 
 Embedded-Systems-Schulprojekt mit RFID-Zugangskontrolle, motorisierter Schublade, Wetter-API und Sprachausgabe. Ein Hardware-Projekt mit sauberer Dokumentation und engem Budget.
+
+> RFID · Motorsteuerung · Wetter-Integration · Embedded Prototyping
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![CircuitPython](https://img.shields.io/badge/CircuitPython-2A2F3B?style=flat-square&logo=python&logoColor=white)
