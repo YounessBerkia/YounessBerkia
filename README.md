@@ -1,100 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1B3A5C,100:2D5A8E&height=240&section=header&text=Youness%20Berkia&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20things%20that%20work.&descSize=20&descColor=BDD1E8&descAlignY=56" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:17324D,100:2D5A8E&height=220&section=header&text=Youness%20Berkia&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Building%20clean%2C%20useful%20software.&descSize=18&descColor=D7E4F3&descAlignY=58" width="100%"/>
 
-<!-- Typing animation: white on dark, navy on light -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Python+%7C+TypeScript+%7C+React+%7C+Node.js;Embedded+Systems+%7C+Arduino+%7C+Raspberry+Pi;Full-Stack+Developer+in+the+Making;IT-Ausbildung+2026+%E2%80%94+Wiesbaden%2C+Deutschland" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1B3A5C&center=true&vCenter=true&width=620&lines=Python+%7C+TypeScript+%7C+React+%7C+Node.js;Embedded+Systems+%7C+Arduino+%7C+Raspberry+Pi;Full-Stack+Developer+in+the+Making;IT-Ausbildung+2026+%E2%80%94+Wiesbaden%2C+Deutschland" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=FFFFFF&center=true&vCenter=true&width=720&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Python+%7C+Automation+%7C+Embedded+Systems;Designing+modern+web+apps+with+real+utility;IT-Ausbildung+2026+%E2%80%94+Wiesbaden%2C+Deutschland" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=17324D&center=true&vCenter=true&width=720&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Python+%7C+Automation+%7C+Embedded+Systems;Designing+modern+web+apps+with+real+utility;IT-Ausbildung+2026+%E2%80%94+Wiesbaden%2C+Deutschland" />
 </picture>
 
-<br/><br/>
+<br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YounessBerkia&color=1B3A5C&style=for-the-badge&label=Profile+Views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YounessBerkia?style=for-the-badge&color=1B3A5C&labelColor=0d1117)](https://github.com/YounessBerkia)
+[![Profile Views](https://komarev.com/ghpvc/?username=YounessBerkia&color=1B3A5C&style=for-the-badge&label=Profile+Views)](https://github.com/YounessBerkia)
+[![GitHub followers](https://img.shields.io/github/followers/YounessBerkia?style=for-the-badge&color=1B3A5C&labelColor=0d1117)](https://github.com/YounessBerkia?tab=followers)
+[![Email](https://img.shields.io/badge/Email-berkiayouness%40gmail.com-1B3A5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkiayouness@gmail.com)
 
 </div>
 
----
+## Über mich
 
-## 🧠 Über mich
+Ich bin Youness aus Wiesbaden und baue Software, die nicht nur funktioniert, sondern sich auch gut anfühlen soll. Mein Fokus liegt auf modernen Web-Apps, klaren Interfaces, Automatisierung und Projekten mit echtem Alltagsnutzen.
 
-```python
-class YounessBerkia:
+Aktuell suche ich eine IT-Ausbildung für 2026 im Bereich Anwendungsentwicklung oder IT-Systemmanagement.
 
-    def __init__(self):
-        self.name       = "Youness Berkia"
-        self.location   = "📍 Wiesbaden, Deutschland"
-        self.goal       = "🎯 IT-Ausbildung 2026 — Anwendungsentwicklung & IT-Systemmanagement"
-        self.languages  = ["🇩🇪 Deutsch (C2)", "🇬🇧 Englisch (C1)", "🇸🇦 Arabisch (B2)"]
-        self.stack      = ["Python", "TypeScript", "React", "Node.js", "Arduino C++"]
-        self.interests  = ["Automatisierung", "Full-Stack Dev", "Embedded Systems", "Local AI"]
+## Fokus
 
-    def currently_building(self) -> list:
-        return [
-            "⚡ WattWise — Stromverbrauchsanalyse & Jahresprognose",
-            "🔧 Weitere Open-Source-Tools"
-        ]
+- Moderne Full-Stack-Web-Apps mit TypeScript, React und Next.js
+- Tools mit klarem Nutzen statt Demo-Projekte ohne Praxiswert
+- Embedded- und Automatisierungsprojekte mit Arduino und Raspberry Pi
+- Saubere UI, gute Nutzerführung und durchdachte Produktlogik
 
-    def motto(self) -> str:
-        return "Du hast ein Problem? Programmier es weg. 🚀"
+## Featured Projects
 
-me = YounessBerkia()
-print(me.motto())
-# → Du hast ein Problem? Programmier es weg. 🚀
-```
+### WattWise
+[Live Demo](https://watt-wise-mu.vercel.app/dashboard) · [Repository](https://github.com/YounessBerkia/WattWise)
 
----
-
-## 🚀 Projekte
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚢 [ProcureDock](https://procure-dock.vercel.app) &nbsp;·&nbsp; [Repo ↗](https://github.com/YounessBerkia/ProcureDock)
-
-**IT-Beschaffungs-Dashboard** — vollständige Webanwendung mit automatisiertem Preisvergleich, Budgetverfolgung und Lieferantenmanagement. Live deployed.
-
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗂️ [Foldify](https://github.com/YounessBerkia/Foldify) &nbsp;·&nbsp; Open Source · MIT
-
-**KI-Dateiorganizer** — lokale Klassifizierung mit regelbasierter Engine und LLM-Fallback via Ollama. Kein Cloud, keine Abos. Produktionsbereit.
-
-![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/AI-Ollama-8B5CF6?style=flat-square)
-![MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
-![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💡 [Smarter Nachttisch](https://github.com/YounessBerkia/smarter-nachttisch)
-
-**Embedded Systems · RFID & IoT** — Schulprojekt mit RFID-Zugangskontrolle, motorisierter Schublade, Wetter-API und synthetischer Sprachausgabe. Budget: 51,28 €. 17-seitige Doku.
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![CircuitPython](https://img.shields.io/badge/CircuitPython-2A2F3B?style=flat-square&logo=python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [WattWise](https://watt-wise-mu.vercel.app/dashboard) &nbsp;·&nbsp; [Repo ↗](https://github.com/YounessBerkia/WattWise)
-
-**Stromverbrauchsanalyse-Dashboard** — moderne Web-App zur Erfassung von Zählerständen, Verbrauchsanalyse, Jahresprognose und Vertragskalkulation inklusive Nachzahlung vs. Rückerstattung.
+Modernes Stromverbrauchs-Dashboard zum Erfassen von Zählerständen, zur Analyse von Verbrauchsverläufen und zur Berechnung von Jahreskosten, Nachzahlung und Rückerstattung.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -102,38 +42,51 @@ print(me.motto())
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
-</td>
-</tr>
-</table>
-</div>
+### ProcureDock
+[Live Demo](https://procure-dock.vercel.app) · [Repository](https://github.com/YounessBerkia/ProcureDock)
 
----
+IT-Beschaffungs-Dashboard mit Preisvergleich, Budgetverfolgung und Lieferantenmanagement. Ein praxisnahes Full-Stack-Projekt mit starkem Fokus auf Struktur und Nutzbarkeit.
 
-## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+### Foldify
+[Repository](https://github.com/YounessBerkia/Foldify)
+
+Lokaler KI-Dateiorganizer mit regelbasierter Engine und LLM-Fallback via Ollama. Datenschutzfreundlich, praktisch und klar auf echten Einsatz ausgelegt.
+
+![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/AI-Ollama-8B5CF6?style=flat-square)
+![MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Smarter Nachttisch
+[Repository](https://github.com/YounessBerkia/smarter-nachttisch)
+
+Embedded-Systems-Schulprojekt mit RFID-Zugangskontrolle, motorisierter Schublade, Wetter-API und Sprachausgabe. Ein Hardware-Projekt mit sauberer Dokumentation und engem Budget.
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![CircuitPython](https://img.shields.io/badge/CircuitPython-2A2F3B?style=flat-square&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+## Tech Stack
 
 <div align="center">
 
-**Sprachen & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,express,cpp,arduino&theme=dark&perline=8" />
-
-**Tools & Infrastruktur**
-
-<img src="https://skillicons.dev/icons?i=postgres,tailwind,vite,vercel,git,github,linux,vscode&theme=dark&perline=8" />
-
-**Hardware & Sonstiges**
-
-<img src="https://skillicons.dev/icons?i=raspberrypi,blender&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,cpp,arduino&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,postgres,git,github,linux,vscode,vercel,raspberrypi&theme=dark&perline=8" />
 
 </div>
 
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YounessBerkia&theme=tokyonight&background=0d1117&border=1B3A5C&stroke=1B3A5C&ring=2D5A8E&fire=2D5A8E&currStreakLabel=2D5A8E&sideLabels=2D5A8E&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YounessBerkia&theme=tokyonight&background=0d1117&border=1B3A5C&stroke=1B3A5C&ring=2D5A8E&fire=2D5A8E&currStreakLabel=2D5A8E&sideLabels=2D5A8E&currStreakNum=ffffff&sideNums=ffffff&dates=8A9AAF" width="62%"/>
 
 </div>
 
@@ -143,33 +96,18 @@ print(me.motto())
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YounessBerkia/YounessBerkia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YounessBerkia/YounessBerkia/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/YounessBerkia/YounessBerkia/output/github-contribution-grid-snake-dark.svg" width="90%">
-</picture>
-
-</div>
-
----
-
-## 📬 Kontakt
+## Kontakt
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-berkiayouness%40gmail.com-1B3A5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkiayouness@gmail.com)
-&nbsp;
-[![ProcureDock Live](https://img.shields.io/badge/Live_Demo-procure--dock.vercel.app-2D5A8E?style=for-the-badge&logo=vercel&logoColor=white)](https://procure-dock.vercel.app)
+[![WattWise](https://img.shields.io/badge/WattWise-Live_Demo-2D5A8E?style=for-the-badge&logo=vercel&logoColor=white)](https://watt-wise-mu.vercel.app/dashboard)
+[![ProcureDock](https://img.shields.io/badge/ProcureDock-Live_Demo-17324D?style=for-the-badge&logo=vercel&logoColor=white)](https://procure-dock.vercel.app)
 
 <br/>
+<br/>
 
-*Offen für IT-Ausbildungsplätze 2026 im Raum Wiesbaden / Mainz / Frankfurt / Eschborn*
+Offen für IT-Ausbildungsplätze 2026 im Raum Wiesbaden, Mainz, Frankfurt und Eschborn.
 
 </div>
 
