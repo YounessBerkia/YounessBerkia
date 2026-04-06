@@ -92,12 +92,15 @@ print(me.motto())
 </td>
 <td width="50%" valign="top">
 
-### ⚡ WattWise &nbsp;·&nbsp; In Entwicklung 🔧
+### ⚡ [WattWise](https://watt-wise-mu.vercel.app/dashboard) &nbsp;·&nbsp; [Repo ↗](https://github.com/YounessBerkia/WattWise)
 
-**Stromverbrauchsanalyse-Dashboard** — Tages-/Monatsprognose, Jahreshochrechnung und Vertragskalkulation (Nachzahlung vs. Rückerstattung).
+**Stromverbrauchsanalyse-Dashboard** — moderne Web-App zur Erfassung von Zählerständen, Verbrauchsanalyse, Jahresprognose und Vertragskalkulation inklusive Nachzahlung vs. Rückerstattung.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Entwicklung-f59e0b?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
