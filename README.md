@@ -18,9 +18,9 @@
 
 ## Über mich
 
-Ich bin Youness aus Wiesbaden und baue Software, die nicht nur funktioniert, sondern sich auch gut anfühlen soll. Mein Fokus liegt auf modernen Web-Apps, klaren Interfaces, Automatisierung und Projekten mit echtem Alltagsnutzen.
+Ich bin Youness aus Wiesbaden und baue Software, die nicht nur funktioniert, sondern auch gut aussehen soll. Mein Fokus liegt auf modernen Web-Apps, klaren Interfaces, Automatisierung und Projekten mit echtem Alltagsnutzen.
 
-Aktuell suche ich eine IT-Ausbildung für 2026 im Bereich Anwendungsentwicklung oder IT-Systemmanagement.
+Ich interessiere mich derzeit für eine IT-Ausbildung im Jahr 2026, entweder im Bereich Anwendungsentwicklung oder als IT-Kaufmann.
 
 ## Fokus
 
