@@ -127,8 +127,6 @@ Embedded-Systems-Schulprojekt mit RFID-Zugangskontrolle, motorisierter Schublade
 <br/>
 <br/>
 
-Offen für IT-Ausbildungsplätze 2026 im Raum Wiesbaden, Mainz, Frankfurt und Eschborn.
-
 </div>
 
 <br/>
